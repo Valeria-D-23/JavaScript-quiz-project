@@ -20,19 +20,40 @@ const quiz = {
         },
         {
             q : 'How many planets are there in the Solar System?',
-            o : ['6', '7', '8'],
+            o : ['6', '7', '8', '4'],
             a : 2,
         },
         {
             q : 'Where was Shakespeare born?',
-            o : ['France', 'Italy', 'England'],
+            o : ['France', 'Italy', 'England', 'Spain'],
             a : 2,
         },
         {
             q : 'How old are babies before they can shed tears?',
-            o : ['1 year', '1 month', '1 day'],
+            o : ['1 year', '1 month', '1 day', '6 months'],
             a : 1,
         },
+        {
+            q : 'What is The Heaviest Organ In The Human Body?',
+            o : ['Brain', 'Liver', 'Skin', 'heart'],
+            a : 2,
+        },
+        {
+            q : ' What Sport Has Been Played On The Moon?',
+            o : ['Frisbee', 'Soccer', 'Tennis', 'Golf'],
+            a : 3,
+        },
+        {
+            q : 'Which Sea Creature Has Three Hearts?',
+            o : ['Octopus', 'Shark', 'Whale', 'Stingray'],
+            a : 0,
+        },
+        {
+            q : 'Which Nobel Prize Did Winston Churchill Win?',
+            o : ['Peace', 'Physics', 'Economics', 'Literature'],
+            a : 3,
+        },
+
     ],
 
     //(A2) HTML ELEMENTS
